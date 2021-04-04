@@ -19,4 +19,3 @@ tab_2_layout = html.Div([
     ),
     html.Div(id='page-2-content')
 ])
-``
