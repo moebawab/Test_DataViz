@@ -9,8 +9,8 @@ import dash
 from dash.dependencies import Input, Output
 import dash_html_components as html
 import dash_core_components as dcc
-from tabs import tab_1
-from tabs import tab_2
+import tab_1
+import tab_2
 
 app = dash.Dash()
 server = app.server
